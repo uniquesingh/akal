@@ -1,0 +1,13 @@
+LoadNumber,ReferenceNumber,FirstPickUp,PickUpName,PickUpCity,PickUpState,LastDrop,LastDropName,LastDropCity,LastDropState,Status,TrailerNumber,Rate
+164401205,152700,1/2/15 0:00,American Packaging,ROCHESTER,NY,1/5/15 0:00,American Packaging Inc.,Columbus,WI,Delivered,1904,$100.00
+164419426,2/2158-574861-OP/700809663F,1/2/15 0:00,Johns Manville,Richmond,IN,1/5/15 0:00,Johnson Products,MILWAUKEE,WI,Delivered,1901,$100.00
+164439360,67829717,1/2/15 0:00,Consolidated Container,New Castle,PA,1/5/15 0:00,WS Packaging,Oak Creek,WI,Delivered,1900,$100.00
+164334699,627257/L282514,1/5/15 0:00,LAKESIDE FOODS,POYNETTE,WI,1/6/15 0:00,C&S Wholesale Grocers,Indianapolis,IN,Delivered,1904,$100.00
+164488867,57609/Erika Bannen/W117499108,1/5/15 0:00,Cargill Specialty Malt,SHEBOYGAN,WI,1/6/15 0:00,People's Brewing Co.,Lafayette,IN,Delivered,1901,$100.00
+164512467,105485990/147527212/3678397960/44516148/52158386,1/5/15 0:00,USJT CHEP TOMAH RLC,Tomah,WI,1/6/15 0:00,Millwood,CUDAHY,WI,Delivered,1900,$100.00
+164401205,152700,1/2/15 0:00,American Packaging,ROCHESTER,NY,1/5/15 0:00,American Packaging Inc.,Columbus,WI,Delivered,1904,$100.00
+164419426,2/2158-574861-OP/700809663F,2/15/15 0:00,Johns Manville,Richmond,IN,1/5/15 0:00,Johnson Products,MILWAUKEE,WI,Delivered,1901,$100.00
+164439360,67829717,2/16/15 0:00,Consolidated Container,New Castle,PA,1/5/15 0:00,WS Packaging,Oak Creek,WI,Delivered,1900,$100.00
+164334699,627257/L282514,2/17/15 0:00,LAKESIDE FOODS,POYNETTE,WI,1/6/15 0:00,C&S Wholesale Grocers,Indianapolis,IN,Delivered,1904,$100.00
+164488867,57609/Erika Bannen/W117499108,2/18/15 0:00,Cargill Specialty Malt,SHEBOYGAN,WI,1/6/15 0:00,People's Brewing Co.,Lafayette,IN,Delivered,1901,$200.00
+164512467,105485990/147527212/3678397960/44516148/52158386,2/19/15 0:00,USJT CHEP TOMAH RLC,Tomah,WI,1/6/15 0:00,Millwood,CUDAHY,WI,Delivered,1900,$100.00
